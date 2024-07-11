@@ -1,4 +1,5 @@
-// Superclass
+//Runtime Polymorphism => Runtime polymorphism allows method overriding, where the method to be executed is determined at runtime based on the object's type.
+
 class Animal {
     void sound() {
         System.out.println("Animal makes a sound");
