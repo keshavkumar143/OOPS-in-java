@@ -1,3 +1,5 @@
+// Encapsulation -> restricts direct access to data, enforcing controlled interaction via
+//  methods for data protection and integrity.
 
 public class Encapsulation_example {
     private int bank_balance;
